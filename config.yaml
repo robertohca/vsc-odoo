@@ -1,0 +1,6 @@
+python: "3.10"
+repos:
+  custom:
+    - <path_to_custom_repo>
+  odoo: <odoo_server>
+  enterprise: <enterprise_repo>
